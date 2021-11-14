@@ -39,7 +39,7 @@ const initialState = {
     quizs: [
         {
             q: "현 미국 대통령인 조 바이든의 부통령 이름은? ",
-            img: "/photo/us.jpeg",
+            img: "./photo/us.jpeg",
             a: [
                 {
                     text: "카밀라 카베요" ,
@@ -83,7 +83,7 @@ const initialState = {
         },
         {
             q: "삼국지에서 여포와 관우가 탔던 하루에 천리를 갈수있다던 준마의 이름은",
-            img: "/photo/song1.png",
+            img: "./photo/song1.png",
             a: [
                 {
                     text: "왕바우" ,
@@ -105,7 +105,7 @@ const initialState = {
         },
         {
             q: "다음 기호의 단위로 알맞은것은?",
-            img: "/photo/N.png",
+            img: "./photo/N.png",
             a: [
                 {
                     text: "네이버" ,

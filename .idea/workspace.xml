@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5accf547-0965-42a2-b12d-6c8a2b51179b" name="변경" comment="" />
+    <list default="true" id="5accf547-0965-42a2-b12d-6c8a2b51179b" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/modules/score.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/modules/score.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +19,7 @@
         <entry key="$PROJECT_DIR$/.." value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="20ruTvC0WlpcMZGY1EyGserw7tR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,7 +50,7 @@
       <workItem from="1636855308597" duration="23000" />
       <workItem from="1636856778098" duration="3000" />
       <workItem from="1636856872346" duration="18000" />
-      <workItem from="1636856939519" duration="17000" />
+      <workItem from="1636856939519" duration="89000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1636815124410</created>
