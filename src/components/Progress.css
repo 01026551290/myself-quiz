@@ -1,0 +1,18 @@
+div.progress {
+    margin-top: 60px;
+}
+div.gauge {
+    width: 100%;
+    height: 10px;
+    background: #8e8eab;
+    margin-top: 10px;
+    text-align: left;
+}
+span.fill {
+    display: inline-block;
+    width: 100%;
+    height: inherit;
+    background: blue;
+    position: relative;
+    top: -4px;
+}
