@@ -2,7 +2,7 @@
   "name": "myself-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://01026551290.github.io/toyReact/",
+  "homepage": "https://01026551290.github.io/myself-quiz/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
