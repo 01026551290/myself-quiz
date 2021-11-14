@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5accf547-0965-42a2-b12d-6c8a2b51179b" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/modules/score.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/modules/score.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,7 @@
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/.." value="main" />
+        <entry key="$PROJECT_DIR$" value="gh-pages" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,7 +51,7 @@
       <workItem from="1636855308597" duration="23000" />
       <workItem from="1636856778098" duration="3000" />
       <workItem from="1636856872346" duration="18000" />
-      <workItem from="1636856939519" duration="186000" />
+      <workItem from="1636856939519" duration="485000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1636815124410</created>
@@ -72,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636857069681</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update homepages">
+      <created>1636857143297</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636857143297</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add" />
     <MESSAGE value="update img" />
-    <option name="LAST_COMMIT_MESSAGE" value="update img" />
+    <MESSAGE value="update homepages" />
+    <option name="LAST_COMMIT_MESSAGE" value="update homepages" />
   </component>
 </project>

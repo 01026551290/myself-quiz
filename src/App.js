@@ -50,7 +50,7 @@ function App() {
     <>
       {page === 0 && (
           <Main>
-            <MaingImg src={"/photo/runningmanMain.png"} alt={"seoulNight"}/>
+            <MaingImg src={"./photo/runningmanMain.png"} alt={"runningmanMain"}/>
             <h1>런닝맨 상식 퀴즈</h1>
             <SubHeader>런닝맨만 봤다면 누구든 만점에 도전할수있는 문제!!</SubHeader>
             <Button text="테스트 시작" clickEvent={() => {

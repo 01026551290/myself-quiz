@@ -61,7 +61,7 @@ const initialState = {
         },
         {
             q: "캐나다의 수도는",
-            img: "/photo/canada.jpg",
+            img: "./photo/canada.jpg",
             a: [
                 {
                     text: "오타와" ,
